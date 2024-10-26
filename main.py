@@ -1,10 +1,9 @@
-import pandas as pd
-import numpy as np
-import seaborn as sns
 import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
 
 # Cargar los datos desde tu archivo Excel
-data = pd.read_excel("C:\\Users\\labf603\\Downloads\\Libro1_separado.xlsx")
+data = pd.read_excel("C:\\Users\\labf603\\PycharmProjects\\Inteligencia_de_Negocios\\Social_Network_Ads_SinTratar.xlsx")
 
 # 1. Calcular la media y la mediana de la variable Age
 mean_age = data['Age'].mean()
@@ -23,7 +22,8 @@ IQR_salary = Q3_salary - Q1_salary
 
 # Identificar valores atípicos
 age_outliers = data[(data['Age'] < (Q1_age - 1.5 * IQR_age)) | (data['Age'] > (Q3_age + 1.5 * IQR_age))]
-salary_outliers = data[(data['EstimatedSalary'] < (Q1_salary - 1.5 * IQR_salary)) | (data['EstimatedSalary'] > (Q3_salary + 1.5 * IQR_salary))]
+salary_outliers = data[(data['EstimatedSalary'] < (Q1_salary - 1.5 * IQR_salary)) | (
+            data['EstimatedSalary'] > (Q3_salary + 1.5 * IQR_salary))]
 
 print("Valores atípicos en Age:", age_outliers)
 print("Valores atípicos en EstimatedSalary:", salary_outliers)

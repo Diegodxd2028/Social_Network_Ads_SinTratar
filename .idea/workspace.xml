@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dedcee19-f669-4758-826a-9a05b36e859b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Distribucion de edad segun compra.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Distribucion de salario estimado segun compra.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Evidencia python.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Social_Network_Ads_SinTratar.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dedcee19-f669-4758-826a-9a05b36e859b" name="Changes" comment="Inteligencia de Negocios (Social Network Ads)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2nyjoKJs8pIC327huHbPZ96Xpes" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,15 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Media y Mediana de Age.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Media y Mediana de Age.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Inteligencia_de_Negocios" />
@@ -86,6 +80,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729952383904</updated>
     </task>
+    <task id="LOCAL-00001" summary="Inteligencia de Negocios (Social Network Ads)">
+      <option name="closed" value="true" />
+      <created>1729955091532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729955091532</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inteligencia de Negocios (Social Network Ads)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inteligencia de Negocios (Social Network Ads)" />
   </component>
 </project>
