@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dedcee19-f669-4758-826a-9a05b36e859b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Inteligencia_de_Negocios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Análisis de Factores/Analisis de factores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Correlación entre Variables/Correlacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Media y Mediana/Media y Mediana de Age.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Valores Atípicos/Deteccion de valores atipicos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distribucion de edad segun compra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Distribucion de salario estimado segun compra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Evidencia python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Social_Network_Ads_SinTratar.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +43,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RunManager">
